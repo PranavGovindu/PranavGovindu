@@ -1,0 +1,103 @@
+/* Basic Reset and Body Styling */
+body {
+    font-family: sans-serif; /* Use a common, easy-to-read font */
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4; /* Light grey background */
+    color: #333; /* Dark grey text for readability */
+    /* Optional: Center the content and limit its width on larger screens */
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px; /* Add padding on the sides for smaller screens */
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 20px 0; /* Add some space inside the header */
+}
+
+header h1 {
+    margin-bottom: 5px;
+    color: #0056b3; /* A shade of blue for the main name */
+}
+
+header p {
+    color: #555; /* Slightly lighter color for the subtitle */
+    font-size: 1.1em;
+}
+
+/* Section Styling */
+section {
+    background-color: #fff; /* White background for content sections */
+    padding: 30px; /* More internal space */
+    margin-bottom: 20px;
+    border-radius: 8px; /* Slightly rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+h2 {
+    color: #0056b3; /* Same blue for section titles */
+    border-bottom: 2px solid #eee; /* A light grey line under titles */
+    padding-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 25px; /* Space below the title */
+}
+
+/* Link Styling */
+a {
+    color: #007bff; /* Standard blue for links */
+    text-decoration: none; /* Remove the default underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Add underline back on hover */
+}
+
+/* List Styling (used for Skills, Links, Blogs) */
+ul {
+    list-style: none; /* Remove default bullets */
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 12px; /* Space between list items */
+}
+
+/* Styling for individual Job and Project entries */
+.job, .project {
+    margin-bottom: 25px; /* Space between entries */
+    padding-bottom: 20px;
+    border-bottom: 1px dashed #eee; /* Dashed line separator */
+}
+
+.job:last-child, .project:last-child {
+    border-bottom: none; /* No border after the last entry */
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.job h3, .project h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #555; /* Slightly subdued color for titles within entries */
+}
+
+.job p, .project p {
+     margin-top: 5px;
+     margin-bottom: 5px;
+     color: #666; /* Slightly lighter text for details */
+}
+
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px 0;
+    color: #777; /* Lighter color for footer text */
+    font-size: 0.9em; /* Smaller font size */
+}
