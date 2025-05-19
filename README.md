@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**PranavGovindu/PranavGovindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pranav! 🚀
 
-Here are some ideas to get you started:
+I'm passionate about tackling unique and challenging projects. You'll find me working on unconventional ML/DL projects, especially those involving complex training from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if u see me showcasing cliche aah projects consider im broke
+
+Currently exploring:
+
+- Web Development (with a love-hate relationship with parentheses) 💻
+- Reinforcement Learning 🤖
+
+Let's build something awesome! ✨
