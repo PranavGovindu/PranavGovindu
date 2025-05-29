@@ -2,7 +2,7 @@
 
 I'm Pranav! 
 
-I'm passionate about tackling unique and challenging projects. You'll find me working on unconventional ML/DL projects, especially those involving complex training from scratch.
+i like DL NLP because its cool
 
 if u see me showcasing cliche aah projects consider im broke
 
